@@ -21,7 +21,7 @@ https://wallace-nascimento.github.io/Site-Responsivo/
 
 
  ## Desenvolvimento:
--O site foi desenvolvido com técnicas responsivas, a imagem do mapa nunca vai distorcer, pois a responsividade sempre vai manter o aspect ratio.
+-O site foi desenvolvido com técnicas responsivas, a imagem do mapa nunca vai distorcer, pois a responsividade sempre vai manter o aspect ratio.<br />
 -A implementação do mapa foi através da IPA do google map.
 
 
